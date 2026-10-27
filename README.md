@@ -68,6 +68,7 @@ I'm a Computer Science student majoring in Data Science at Helwan National Unive
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,anaconda,jupyter,vscode" alt="Development Tools"/>
 </p>
+
 ## Featured Projects
 
 ### Adult Income Analysis & Prediction
