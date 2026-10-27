@@ -24,28 +24,50 @@ I'm a Computer Science student majoring in Data Science at Helwan National Unive
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Programming Languages"/>
 </p>
 
-### Data Analysis & Visualization
+### SQL & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn" alt="Data Analysis Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+- SQL queries, joins, subqueries, aggregations, and common table expressions (CTEs)
+- Database design, keys, normalization, and functional dependencies
+
+### Big Data Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=hadoop,spark,kafka,docker" alt="Big Data Technologies"/>
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="HDFS"/>
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
+</p>
+
+- **Apache Kafka:** Event streaming and data ingestion
+- **Apache Spark:** Distributed data processing and Structured Streaming
+- **Hadoop & HDFS:** Distributed storage and big data ecosystem
+- **Apache Hive:** SQL-based querying and data warehousing
+- **Apache Airflow:** Workflow orchestration and pipeline scheduling
+- **Docker & Docker Compose:** Containerization and multi-service environments
+- **PostGIS:** Geospatial data storage and querying
+
+### Data Analysis & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Data Analysis Libraries"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-### Big Data & Databases
+### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apachekafka,spark,hadoop,mysql,postgres" alt="Big Data and Database Tools"/>
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,anaconda,jupyter,vscode" alt="Development Tools"/>
 </p>
-
-### Tools & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,anaconda,jupyter,vscode" alt="Development Tools"/>
-</p>
-
 ## Featured Projects
 
 ### Adult Income Analysis & Prediction
